@@ -2,7 +2,7 @@ body {
   display:flex;
   flex-direction: column;
   justify-content: center;
-  font-family: 'KoHo', sans-serif;font-family: 'KoHo', sans-serif;
+  font-family: 'KoHo', sans-serif;
 }
 
 
@@ -12,7 +12,7 @@ h1#quienesSomosHeader{
   background-color: rgb(71, 4, 4);
   color: white;
   margin: 0px;
-  font-family: 'KoHo', sans-serif;font-family: 'KoHo', sans-serif;
+  font-family: 'KoHo', sans-serif;
 }
 
 
@@ -25,7 +25,7 @@ h1#quienesSomosHeader{
   font-size: 1em;
   text-align:justify;
   margin: 40px;
-  font-family: 'KoHo', sans-serif;font-family: 'KoHo', sans-serif;
+  font-family: 'KoHo', sans-serif;
 }
 
 section#mision{
@@ -39,5 +39,5 @@ input#volverQuienesSomos {
   width: 20%;
   align-self: center; 
   margin: 0px 0px 25px 0px;
-  font-family: 'KoHo', sans-serif;font-family: 'KoHo', sans-serif;
+  font-family: 'KoHo', sans-serif;
 }
